@@ -1,0 +1,6 @@
+framework module Pods_One_Healthy_Leap {
+  umbrella header "Pods-One-Healthy-Leap-umbrella.h"
+
+  export *
+  module * { export * }
+}
