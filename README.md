@@ -9,3 +9,12 @@ The altimate goal of this project is to make a useful application that can enhan
 ### Application Preview
 
 <img width="623" alt="스크린샷 2021-11-22 오후 8 54 23" src="https://user-images.githubusercontent.com/61890844/142960637-26b676c6-2245-47c7-9342-3e7b71dae99c.png">
+  
+  
+  
+![OneHealthyLeapIcon](https://user-images.githubusercontent.com/61890844/142962270-208aede6-87ad-43ac-b730-ddc86165faf4.jpg)
+  
+  Credit: Climbing Human Pictogram
+<div>
+  Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+</div>
